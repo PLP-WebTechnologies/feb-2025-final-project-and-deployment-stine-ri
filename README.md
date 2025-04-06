@@ -1,25 +1,42 @@
-# Final Project and Deployment
+# K-Drama Haven
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+A Netflix-style K-Drama recommendation website that helps users discover Korean dramas based on their preferred genres.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Features
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+- Responsive design that works on all devices
+- Interactive carousel for trending dramas
+- Genre-based recommendation system with modal popups
+- Smooth animations and transitions
+- Contact form with validation
+- Multi-page navigation
 
-## Tasks
+## Technologies Used
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+- HTML5
+- CSS3 (with animations)
+- JavaScript
+- Font Awesome icons
 
-Good luck and happy coding! 🚀💻
+## Pages
+
+1. **Home** - Features trending dramas and site highlights
+2. **Genres** - Browse dramas by genre with interactive recommendations
+3. **About** - Information about the site and team
+4. **Contact** - Form to get in touch with the team
+
+## Deployment
+
+The site is deployed on Netlify: [Live Demo](https://your-netlify-url.netlify.app)
+
+## How to Run Locally
+
+1. Clone the repository
+2. Open `index.html` in your browser
+
+## Future Improvements
+
+- User accounts and personalized recommendations
+- Rating system for dramas
+- Search functionality
+- More detailed drama information pages
